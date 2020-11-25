@@ -1,0 +1,6 @@
+*.exe
+.*.c.un~
+vscode/
+*.swp
+*.c~
+*.c.
